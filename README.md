@@ -2,6 +2,8 @@
   <img alt="Discord Bot Banner" src="https://cdn.squarecloud.app/png/github-readme.png">
 </div>
 
+> 📌 **Note:** This README is written in Portuguese because this project was created as part of a YouTube tutorial in Portuguese. The code and commands follow standard English conventions.
+
 <h1 align="center">bot-de-reaction-role</h1>
 
 <p align="center">Um bot de Discord para gerenciar reaction roles, criado durante um tutorial no Youtube usando <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank">discord.py</a>.</p>
