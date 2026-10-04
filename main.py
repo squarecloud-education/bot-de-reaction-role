@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 
-load_dotenv(".env", override=True)
+load_dotenv(".env")
 
 intents = discord.Intents.all()
 
